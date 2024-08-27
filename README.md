@@ -1,2 +1,2 @@
-# AI_Training
+# ML_Training
 Training Artificial Intelligence Microsoft course
